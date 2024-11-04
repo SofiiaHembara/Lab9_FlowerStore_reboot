@@ -1,0 +1,14 @@
+### Get all flowers
+GET http://localhost:8081/flowers
+Accept: application/json
+
+###
+
+### Add a new flower
+POST http://localhost:8081/flowers
+Content-Type: application/json
+
+{
+  "name": "Rose",
+  "price": 10.5
+}
