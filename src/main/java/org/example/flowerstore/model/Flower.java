@@ -13,4 +13,10 @@ public class Flower {
 
     private String name;
     private Double price;
+
+    public void setColor(String color) {
+    }
+
+    public String getColor() {
+    }
 }

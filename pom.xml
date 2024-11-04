@@ -8,8 +8,8 @@
         <version>3.3.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>flowercontinue</groupId>
-    <artifactId>flowercontinue</artifactId>
+    <groupId>flowerstore</groupId>
+    <artifactId>flowerstore</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>flowerstore</name>
     <description>Demo project for Spring Boot</description>
