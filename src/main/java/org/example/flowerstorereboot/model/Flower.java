@@ -1,4 +1,4 @@
-package org.example.flowerstore.model;
+package org.example.flowerstorereboot.model;
 
 import lombok.Data;
 import javax.persistence.*;

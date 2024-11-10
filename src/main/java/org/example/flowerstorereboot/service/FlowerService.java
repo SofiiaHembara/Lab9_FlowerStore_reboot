@@ -1,8 +1,8 @@
-package org.example.flowerstore.service;
+package org.example.flowerstorereboot.service;
 
 
-import org.example.flowerstore.model.Flower;
-import org.example.flowerstore.repository.FlowerRepository;
+import org.example.flowerstorereboot.model.Flower;
+import org.example.flowerstorereboot.repository.FlowerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

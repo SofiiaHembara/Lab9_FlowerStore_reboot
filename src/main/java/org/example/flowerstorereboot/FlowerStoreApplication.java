@@ -1,4 +1,4 @@
-package org.example.flowerstore;
+package org.example.flowerstorereboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

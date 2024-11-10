@@ -1,7 +1,7 @@
-package org.example.flowerstore.controller;
+package org.example.flowerstorereboot.controller;
 
-import org.example.flowerstore.model.Flower;
-import org.example.flowerstore.service.FlowerService;
+import org.example.flowerstorereboot.model.Flower;
+import org.example.flowerstorereboot.service.FlowerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

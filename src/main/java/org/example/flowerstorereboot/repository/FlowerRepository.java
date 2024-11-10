@@ -1,6 +1,6 @@
-package org.example.flowerstore.repository;
+package org.example.flowerstorereboot.repository;
 
-import org.example.flowerstore.model.Flower;
+import org.example.flowerstorereboot.model.Flower;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
